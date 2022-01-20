@@ -80,6 +80,83 @@ li {
   
 }
 
+#Istanbul {
+  background: url(https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iihRXMchUj2U/v1/-1x-1.jpg) #eeeeee;
+  background-position: 10% 65%;
+  
+}
+
+#Tokyo {
+  background: url(https://www.mensjournal.com/wp-content/uploads/2019/04/TokyoMain.jpg?quality=86&strip=all) #eeeeee;
+  background-position: 10% 65%;
+  
+}
+
+#Dubai {
+  background: url(https://thumbor.forbes.com/thumbor/960x0/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61788442d449c93ea7fc3336%2FDubai-marina-at-night%2F960x0.jpg%3Ffit%3Dscale) #eeeeee;
+  background-position: 10% 65%;
+  
+}
+
+
+#Barcelona {
+  background: url(https://static.wowcher.co.uk/images/deal/15402720/618572.jpg) #eeeeee;
+  background-position: 10% 15%;
+  
+}
+
+
+#NewYork {
+  background: url(https://st2.depositphotos.com/1002489/5568/i/600/depositphotos_55681849-stock-photo-new-york-city-amazing-sunset.jpg) #eeeeee;
+  background-position: 10% 65%;
+  
+}
+
+#Milan{
+  background: url(https://www.telegraph.co.uk/content/dam/Travel/Destinations/Europe/Italy/Milan/milan-italy-iStock-910449404-xlarge.jpg) #eeeeee;
+  background-position: 10% 65%;
+  
+}
+
+#Moscow {
+  background: url(https://a.cdn-hotels.com/gdcs/production29/d1375/234f7170-c9f4-4cee-a372-1a198e388483.jpg?impolicy=fcrop&w=800&h=533&q=medium) #eeeeee;
+  background-position: 10% 65%;
+  
+}
+
+#Lisbon {
+  background: url(https://thumbs.dreamstime.com/b/lisbon-portugal-skyline-night-46429678.jpg) #eeeeee;
+  background-position: 10% 65%;
+  
+}
+
+#Sydney {
+  background: url(https://www.telegraph.co.uk/content/dam/Travel/2018/August/sydney-xlarge.jpg?imwidth=640) #eeeeee;
+  background-position: 10% 65%;
+  
+}
+
+
+#Amsterdam {
+  background: url(https://lp-cms-production.imgix.net/2020-11/shutterstockRF_189863267.jpg?auto=format&fit=crop&sharp=10&vib=20&ixlib=react-8.6.4&w=850) #eeeeee;
+  background-position: 10% 65%;
+  
+}
+
+
+#Munich {
+  background: url(https://static.euronews.com/articles/stories/06/24/32/72/1280x853_cmsv2_468a2afd-6546-5596-8f25-3148f1582497-6243272.jpg) #eeeeee;
+  background-position: 10% 65%;
+  
+}
+
+
+#Cairo {
+  background: url(https://media.istockphoto.com/photos/mosque-and-pyramids-picture-id1174818077?k=20&m=1174818077&s=612x612&w=0&h=vAutxzWDTokCJkf6010sguiHP6yc8Nzt8qePG9DEew0=) #eeeeee;
+  background-position: 10% 65%;
+  
+}
+
 ul:hover li:not(:hover) {
   filter: blur(3px);
   box-shadow: 0px 0px 0px black;
